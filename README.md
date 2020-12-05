@@ -25,3 +25,6 @@ A very simple application written in python that lets you downlaod Images, video
       - **_Video_** for Video
       - **_IGTV_** for IGTV
   - And done. :smiley:    
+
+
+**Note** : Frontend of this project was taken from codepen. So,thanks to the  author Soufiane Khalfaoui HaSsani. Also, the link to the codepen is  https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda
